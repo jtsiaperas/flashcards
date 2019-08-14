@@ -21,7 +21,7 @@ var FlashCardSchema = new Schema({
     },
     lastViewed:{
         type:Date,
-        default: Date.now
+        default: Date.now()
     }
 });
 

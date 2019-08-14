@@ -1,0 +1,20 @@
+#flashcard {
+    height: 60vh;
+    width: 60vw;
+    margin-left: 20vw;
+    margin-top: 20vh;
+    background-color: darkgray;
+    color: white;
+}
+
+#wrong{
+    opacity:0;
+}
+
+#right{
+    opacity:0;
+}
+
+#answer{
+    opacity:0;
+}
