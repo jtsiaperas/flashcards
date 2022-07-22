@@ -14,7 +14,7 @@
     "express": "^4.16.4",
     "express-jwt": "^5.3.1",
     "express-session": "^1.15.6",
-    "file-type": "^10.7.0",
+    "file-type": "^16.5.4",
     "fs": "0.0.1-security",
     "history": "^4.7.2",
     "jquery": "^3.3.1",
